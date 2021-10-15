@@ -19,5 +19,4 @@ Contains following noise filters. Used image wrapping for the edge pixels. Progr
 * Mid-point filter
  
 ### Implementation Details
-* Open CV library only for read/write the image file.
-* Python as the programming language.
+* Open CV library is used only for read/write the image file.
